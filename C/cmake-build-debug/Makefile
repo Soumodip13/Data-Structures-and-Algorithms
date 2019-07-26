@@ -122,32 +122,32 @@ C/fast:
 	$(MAKE) -f CMakeFiles\C.dir\build.make CMakeFiles/C.dir/build
 .PHONY : C/fast
 
-recursive_multiplication.obj: recursive_multiplication.c.obj
+prime.obj: prime.c.obj
 
-.PHONY : recursive_multiplication.obj
+.PHONY : prime.obj
 
 # target to build an object file
-recursive_multiplication.c.obj:
-	$(MAKE) -f CMakeFiles\C.dir\build.make CMakeFiles/C.dir/recursive_multiplication.c.obj
-.PHONY : recursive_multiplication.c.obj
+prime.c.obj:
+	$(MAKE) -f CMakeFiles\C.dir\build.make CMakeFiles/C.dir/prime.c.obj
+.PHONY : prime.c.obj
 
-recursive_multiplication.i: recursive_multiplication.c.i
+prime.i: prime.c.i
 
-.PHONY : recursive_multiplication.i
+.PHONY : prime.i
 
 # target to preprocess a source file
-recursive_multiplication.c.i:
-	$(MAKE) -f CMakeFiles\C.dir\build.make CMakeFiles/C.dir/recursive_multiplication.c.i
-.PHONY : recursive_multiplication.c.i
+prime.c.i:
+	$(MAKE) -f CMakeFiles\C.dir\build.make CMakeFiles/C.dir/prime.c.i
+.PHONY : prime.c.i
 
-recursive_multiplication.s: recursive_multiplication.c.s
+prime.s: prime.c.s
 
-.PHONY : recursive_multiplication.s
+.PHONY : prime.s
 
 # target to generate assembly for a file
-recursive_multiplication.c.s:
-	$(MAKE) -f CMakeFiles\C.dir\build.make CMakeFiles/C.dir/recursive_multiplication.c.s
-.PHONY : recursive_multiplication.c.s
+prime.c.s:
+	$(MAKE) -f CMakeFiles\C.dir\build.make CMakeFiles/C.dir/prime.c.s
+.PHONY : prime.c.s
 
 # Help Target
 help:
@@ -158,9 +158,9 @@ help:
 	@echo ... C
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... recursive_multiplication.obj
-	@echo ... recursive_multiplication.i
-	@echo ... recursive_multiplication.s
+	@echo ... prime.obj
+	@echo ... prime.i
+	@echo ... prime.s
 .PHONY : help
 
 

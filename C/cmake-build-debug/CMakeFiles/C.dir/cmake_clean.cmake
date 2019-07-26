@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/C.dir/recursive_multiplication.c.obj"
+  "CMakeFiles/C.dir/prime.c.obj"
   "C.pdb"
   "C.exe"
   "C.exe.manifest"

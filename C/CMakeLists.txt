@@ -3,4 +3,4 @@ project(C C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(C recursive_multiplication.c)
+add_executable(C prime.c)

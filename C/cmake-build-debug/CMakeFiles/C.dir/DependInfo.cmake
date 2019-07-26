@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "C:/Users/USER/Desktop/Data-Structures-and-Algorithms-/C/recursive_multiplication.c" "C:/Users/USER/Desktop/Data-Structures-and-Algorithms-/C/cmake-build-debug/CMakeFiles/C.dir/recursive_multiplication.c.obj"
+  "C:/Users/USER/Desktop/Data-Structures-and-Algorithms-/C/prime.c" "C:/Users/USER/Desktop/Data-Structures-and-Algorithms-/C/cmake-build-debug/CMakeFiles/C.dir/prime.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

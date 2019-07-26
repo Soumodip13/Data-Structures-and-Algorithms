@@ -56,27 +56,27 @@ include CMakeFiles/C.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/C.dir/flags.make
 
-CMakeFiles/C.dir/recursive_multiplication.c.obj: CMakeFiles/C.dir/flags.make
-CMakeFiles/C.dir/recursive_multiplication.c.obj: ../recursive_multiplication.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\Data-Structures-and-Algorithms-\C\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/C.dir/recursive_multiplication.c.obj"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\C.dir\recursive_multiplication.c.obj   -c C:\Users\USER\Desktop\Data-Structures-and-Algorithms-\C\recursive_multiplication.c
+CMakeFiles/C.dir/prime.c.obj: CMakeFiles/C.dir/flags.make
+CMakeFiles/C.dir/prime.c.obj: ../prime.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\USER\Desktop\Data-Structures-and-Algorithms-\C\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/C.dir/prime.c.obj"
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\C.dir\prime.c.obj   -c C:\Users\USER\Desktop\Data-Structures-and-Algorithms-\C\prime.c
 
-CMakeFiles/C.dir/recursive_multiplication.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C.dir/recursive_multiplication.c.i"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\USER\Desktop\Data-Structures-and-Algorithms-\C\recursive_multiplication.c > CMakeFiles\C.dir\recursive_multiplication.c.i
+CMakeFiles/C.dir/prime.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C.dir/prime.c.i"
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\USER\Desktop\Data-Structures-and-Algorithms-\C\prime.c > CMakeFiles\C.dir\prime.c.i
 
-CMakeFiles/C.dir/recursive_multiplication.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C.dir/recursive_multiplication.c.s"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\USER\Desktop\Data-Structures-and-Algorithms-\C\recursive_multiplication.c -o CMakeFiles\C.dir\recursive_multiplication.c.s
+CMakeFiles/C.dir/prime.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C.dir/prime.c.s"
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\USER\Desktop\Data-Structures-and-Algorithms-\C\prime.c -o CMakeFiles\C.dir\prime.c.s
 
 # Object files for target C
 C_OBJECTS = \
-"CMakeFiles/C.dir/recursive_multiplication.c.obj"
+"CMakeFiles/C.dir/prime.c.obj"
 
 # External object files for target C
 C_EXTERNAL_OBJECTS =
 
-C.exe: CMakeFiles/C.dir/recursive_multiplication.c.obj
+C.exe: CMakeFiles/C.dir/prime.c.obj
 C.exe: CMakeFiles/C.dir/build.make
 C.exe: CMakeFiles/C.dir/linklibs.rsp
 C.exe: CMakeFiles/C.dir/objects1.rsp

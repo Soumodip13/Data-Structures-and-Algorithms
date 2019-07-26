@@ -76,7 +76,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/USER/Desktop/Data-Structures-and-Algorithms-/C/recursive_multiplication.c">
+		<Unit filename="C:/Users/USER/Desktop/Data-Structures-and-Algorithms-/C/prime.c">
 			<Option target="C"/>
 		</Unit>
 		<Unit filename="C:/Users/USER/Desktop/Data-Structures-and-Algorithms-/C/CMakeLists.txt">
